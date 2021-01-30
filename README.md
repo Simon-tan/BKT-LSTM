@@ -2,7 +2,7 @@
 
 
 (1) able to assess student's knowledge mastery by using Bayesian Knowledge Tracing
-(2) able to detect student's ability profile (learning transfer) in student knowledge evolution
+(2) able to detect student's temporal ability profiles (learning transfer) during student knowledge evolution
 (3) able to apply problem difficulty in student performance prediction. 
 
 https://arxiv.org/abs/2012.12218
