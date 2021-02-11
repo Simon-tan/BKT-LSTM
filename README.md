@@ -5,7 +5,7 @@
 (2) able to detect student's temporal ability profiles (learning transfer) during student knowledge evolution
 (3) able to apply problem difficulty in student performance prediction. 
 
-https://arxiv.org/abs/2012.12218
+
 
 ### Data format
 
